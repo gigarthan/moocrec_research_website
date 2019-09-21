@@ -1,11 +1,12 @@
 :root {
   --primary: #fff;
   --light: #000;
-  --sidebarWidth: 350px;
+  --sidebarWidth: 320px;
 }
 
 html {
   scroll-behavior: smooth;
+  text-align: justify;
 }
 
 .navigation__container {
